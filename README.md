@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of kvothe/userbars.** Not for installation: use [Packagist](https://packagist.org/packages/kvothe/userbars) or the [upstream repository](https://github.com/oaklinq/flarum-ext-userbars).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/kvothe-userbars/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/kvothe-userbars/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2019-04-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-userbars/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/kvothe-userbars.json](https://github.com/flarchive/archive-index/blob/main/packages/kvothe-userbars.json)
 
